@@ -1,5 +1,4 @@
 # A recursive function that sorts a list using quicksort
-# Driver code to test it is in README file
 
 from random import randint
 
